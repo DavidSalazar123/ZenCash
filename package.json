@@ -80,5 +80,8 @@
   "browserslist": [
     "electron 24.0",
     "defaults"
-  ]
+  ],
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.16.2"
+  }
 }
